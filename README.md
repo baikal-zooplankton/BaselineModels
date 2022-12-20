@@ -1,10 +1,10 @@
 # Baseline models for Baikal zooplankton recognition.
 
-![GitHub](https://img.shields.io/github/license/baikal-zooplankton/BaselineModels?style=plastic)
+<!-- ![GitHub](https://img.shields.io/github/license/baikal-zooplankton/BaselineModels?style=plastic) -->
 
-<p align="center">
+
 ![Baikal zooplankton](cover.jpg?raw=true "Baikal micro wildlife") 
-</p>
+
 
 Here we present baseline models we created while working with Baikal zooplankton images. Notebooks are accompanied by our second [data repository](https://github.com/baikal-zooplankton/Baikal_Dataset). 
 
