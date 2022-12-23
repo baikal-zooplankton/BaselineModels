@@ -1,5 +1,5 @@
 
-We are updating repositories, stay tined!
+We are updating repositories, stay tuned!
 ---
 # Baseline models for Baikal zooplankton recognition.
 
